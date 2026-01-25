@@ -7,7 +7,7 @@ This project demonstrates how to create a **simple interactive attendance tracki
 ## 🚀 Features
 
 ✔ Interactive UI built with Streamlit  
-✔ Browse Student 
+✔ Browse Student <br>
 ✔ Easy navigation between pages  
 ✔ Extendable structure for more content  
 ✔ Simple Python backend  
