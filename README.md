@@ -54,7 +54,7 @@ streamlit run attendance_tracker_streamlit.py
   <p>Happy Coding 🐍✨</p></b>
 <br>
 👤 Github  : [@droliasakshi12](https://github.com/droliasakshi12)<br>
-📩 Email   : droliasakshi601@gmail.com <br>
+📩 Email   : sakshidrolia12@gmail.com <br>
 🔗 Linkdin : https://www.linkedin.com/in/sakshi-drolia12<br>
 </br>
 <h4>Credits</h4>
